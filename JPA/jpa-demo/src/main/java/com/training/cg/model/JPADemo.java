@@ -35,6 +35,7 @@ public class JPADemo {
 		
 		
 		EntityManager  entityMgr = getEntityManager();
+		system.out.println("Sample");
 		
 		//create(entityMgr);
 		//delete(entityMgr);
